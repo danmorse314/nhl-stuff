@@ -1,33 +1,33 @@
-full_team_name,team_abbr,team_nick,division,conference,team_logo_espn
-Anaheim Ducks,ANA,ducks,Pacific,Western,https://a.espncdn.com/i/teamlogos/nhl/500/ANA.png
-Arizona Coyotes,ARI,coyotes,Central,Western,https://a.espncdn.com/i/teamlogos/nhl/500/ARI.png
-Boston Bruins,BOS,bruins,Atlantic,Eastern,https://a.espncdn.com/i/teamlogos/nhl/500/BOS.png
-Buffalo Sabres,BUF,sabres,Atlantic,Eastern,https://a.espncdn.com/i/teamlogos/nhl/500/BUF.png
-Calgary Flames,CGY,flames,Pacific,Western,https://a.espncdn.com/i/teamlogos/nhl/500/CGY.png
-Carolina Hurricanes,CAR,hurricanes,Metropolitan,Eastern,https://a.espncdn.com/i/teamlogos/nhl/500/CAR.png
-Chicago Blackhawks,CHI,blackhawks,Central,Western,https://a.espncdn.com/i/teamlogos/nhl/500/CHI.png
-Colorado Avalanche,COL,avalanche,Central,Western,https://a.espncdn.com/i/teamlogos/nhl/500/COL.png
-Columbus Blue Jackets,CBJ,bluejackets,Metropolitan,Eastern,https://a.espncdn.com/i/teamlogos/nhl/500/CBJ.png
-Dallas Stars,DAL,stars,Central,Western,https://a.espncdn.com/i/teamlogos/nhl/500/DAL.png
-Detroit Red Wings,DET,redwings,Atlantic,Eastern,https://a.espncdn.com/i/teamlogos/nhl/500/DET.png
-Edmonton Oilers,EDM,oilers,Pacific,Western,https://a.espncdn.com/i/teamlogos/nhl/500/EDM.png
-Florida Panthers,FLA,panthers,Atlantic,Eastern,https://a.espncdn.com/i/teamlogos/nhl/500/FLA.png
-Los Angeles Kings,LAK,kings,Pacific,Western,https://a.espncdn.com/i/teamlogos/nhl/500/LAK.png
-Minnesota Wild,MIN,wild,Central,Western,https://a.espncdn.com/i/teamlogos/nhl/500/MIN.png
-Montreal Canadiens,MTL,canadiens,Atlantic,Eastern,https://a.espncdn.com/i/teamlogos/nhl/500/MTL.png
-Nashville Predators,NSH,predators,Central,Western,https://a.espncdn.com/i/teamlogos/nhl/500/NSH.png
-New Jersey Devils,NJD,devils,Metropolitan,Eastern,https://a.espncdn.com/i/teamlogos/nhl/500/NJD.png
-New York Islanders,NYI,islanders,Metropolitan,Eastern,https://a.espncdn.com/i/teamlogos/nhl/500/NYI.png
-New York Rangers,NYR,rangers,Metropolitan,Eastern,https://a.espncdn.com/i/teamlogos/nhl/500/NYR.png
-Ottawa Senators,OTT,senators,Atlantic,Eastern,https://a.espncdn.com/i/teamlogos/nhl/500/OTT.png
-Philadelphia Flyers,PHI,flyers,Metropolitan,Eastern,https://a.espncdn.com/i/teamlogos/nhl/500/PHI.png
-Pittsburgh Penguins,PIT,penguins,Metropolitan,Eastern,https://a.espncdn.com/i/teamlogos/nhl/500/PIT.png
-San Jose Sharks,SJS,sharks,Pacific,Western,https://a.espncdn.com/i/teamlogos/nhl/500/SJS.png
-Seattle Kraken,SEA,kraken,Pacific,Western,https://a.espncdn.com/i/teamlogos/nhl/500/SEA.png
-St. Louis Blues,STL,blues,Central,Western,https://a.espncdn.com/i/teamlogos/nhl/500/STL.png
-Tampa Bay Lightning,TBL,lightning,Atlantic,Eastern,https://a.espncdn.com/i/teamlogos/nhl/500/TBL.png
-Toronto Maple Leafs,TOR,mapleleafs,Atlantic,Eastern,https://a.espncdn.com/i/teamlogos/nhl/500/TOR.png
-Vancouver Canucks,VAN,canucks,Pacific,Western,https://a.espncdn.com/i/teamlogos/nhl/500/VAN.png
-Vegas Golden Knights,VGK,goldenknights,Pacific,Western,https://a.espncdn.com/i/teamlogos/nhl/500/VGK.png
-Washington Capitals,WPG,capitals,Metropolitan,Eastern,https://a.espncdn.com/i/teamlogos/nhl/500/WPG.png
-Winnipeg Jets,WSH,jets,Central,Western,https://a.espncdn.com/i/teamlogos/nhl/500/WSH.png
+full_team_name,team_abbr,team_nick,division,conference,team_logo_espn,team_color,team_color2,team_color3,team_color4
+Anaheim Ducks,ANA,ducks,Pacific,Western,https://a.espncdn.com/i/teamlogos/nhl/500/ANA.png,#F47A38,#B9975B,#C1C6C8,#000
+Arizona Coyotes,ARI,coyotes,Central,Western,https://a.espncdn.com/i/teamlogos/nhl/500/ARI.png,#8C2633,#154734,#DDCBA4,#5F259F
+Boston Bruins,BOS,bruins,Atlantic,Eastern,https://a.espncdn.com/i/teamlogos/nhl/500/BOS.png,#FFB81C,#000000,#FFB81C,#000000
+Buffalo Sabres,BUF,sabres,Atlantic,Eastern,https://a.espncdn.com/i/teamlogos/nhl/500/BUF.png,#002654,#FCB514,#ADAFAA,#C8102E
+Calgary Flames,CGY,flames,Pacific,Western,https://a.espncdn.com/i/teamlogos/nhl/500/CGY.png,#C8102E,#F1BE48,#111111,#FFFFFF
+Carolina Hurricanes,CAR,hurricanes,Metropolitan,Eastern,https://a.espncdn.com/i/teamlogos/nhl/500/CAR.png,#CC0000,#000000,#A2AAAD,#76232F
+Chicago Blackhawks,CHI,blackhawks,Central,Western,https://a.espncdn.com/i/teamlogos/nhl/500/CHI.png,#CF0A2C,#000000,#FFFFFF,#D18A00
+Colorado Avalanche,COL,avalanche,Central,Western,https://a.espncdn.com/i/teamlogos/nhl/500/COL.png,#6F263D,#236192,#A2AAAD,#000000
+Columbus Blue Jackets,CBJ,bluejackets,Metropolitan,Eastern,https://a.espncdn.com/i/teamlogos/nhl/500/CBJ.png,#002654,#CE1126,#A4A9AD,#FFFFFF
+Dallas Stars,DAL,stars,Central,Western,https://a.espncdn.com/i/teamlogos/nhl/500/DAL.png,#006847,#8F8F8C,#111111,#34fc04
+Detroit Red Wings,DET,redwings,Atlantic,Eastern,https://a.espncdn.com/i/teamlogos/nhl/500/DET.png,#CE1126,#FFFFFF,#CE1126,#FFFFFF
+Edmonton Oilers,EDM,oilers,Pacific,Western,https://a.espncdn.com/i/teamlogos/nhl/500/EDM.png,#FF4C00,#041E42,#FFFFFF,#FF4C00
+Florida Panthers,FLA,panthers,Atlantic,Eastern,https://a.espncdn.com/i/teamlogos/nhl/500/FLA.png,#041E42,#C8102E,#B9975B,#041E42
+Los Angeles Kings,LAK,kings,Pacific,Western,https://a.espncdn.com/i/teamlogos/nhl/500/LA.png,#572A84,#FFC80C,#111111,#A2AAAD
+Minnesota Wild,MIN,wild,Central,Western,https://a.espncdn.com/i/teamlogos/nhl/500/MIN.png,#154734,#A6192E,#DDCBA4,#EAAA00
+Montreal Canadiens,MTL,canadiens,Atlantic,Eastern,https://a.espncdn.com/i/teamlogos/nhl/500/MTL.png,#AF1E2D,#192168,#AF1E2D,#192168
+Nashville Predators,NSH,predators,Central,Western,https://a.espncdn.com/i/teamlogos/nhl/500/NSH.png,#FFB81C,#041E42,#FFB81C,#041E42
+New Jersey Devils,NJD,devils,Metropolitan,Eastern,https://a.espncdn.com/i/teamlogos/nhl/500/NJD.png,#CE1126,#046A38,#000000,#FFFFFF
+New York Islanders,NYI,islanders,Metropolitan,Eastern,https://a.espncdn.com/i/teamlogos/nhl/500/NYI.png,#00539B,#F47D30,#FFFFFF,#041E42
+New York Rangers,NYR,rangers,Metropolitan,Eastern,https://a.espncdn.com/i/teamlogos/nhl/500/NYR.png,#0038A8,#CE1126,#FFFFFF,#0038A8
+Ottawa Senators,OTT,senators,Atlantic,Eastern,https://a.espncdn.com/i/teamlogos/nhl/500/OTT.png,#C52032,#C2912C,#000000,#FFFFFF
+Philadelphia Flyers,PHI,flyers,Metropolitan,Eastern,https://a.espncdn.com/i/teamlogos/nhl/500/PHI.png,#F74902,#000000,#F74902,#000000
+Pittsburgh Penguins,PIT,penguins,Metropolitan,Eastern,https://a.espncdn.com/i/teamlogos/nhl/500/PIT.png,#FCB514,#000000,#CFC493,#418FDE
+San Jose Sharks,SJS,sharks,Pacific,Western,https://a.espncdn.com/i/teamlogos/nhl/500/SJ.png,#006D75,#000000,#FFFFFF,#EA7200
+Seattle Kraken,SEA,kraken,Pacific,Western,https://a.espncdn.com/i/teamlogos/nhl/500/SEA.png,#99D9D9,#001628,#355464,#E9072B
+St. Louis Blues,STL,blues,Central,Western,https://a.espncdn.com/i/teamlogos/nhl/500/STL.png,#002F87,#FCB514,#041E42,#C8102E
+Tampa Bay Lightning,TBL,lightning,Atlantic,Eastern,https://a.espncdn.com/i/teamlogos/nhl/500/TB.png,#002868,#A2AAAD,#000000,#FFFFFF
+Toronto Maple Leafs,TOR,mapleleafs,Atlantic,Eastern,https://a.espncdn.com/i/teamlogos/nhl/500/TOR.png,#00205B,#FFFFFF,#00205B,#8D9093
+Vancouver Canucks,VAN,canucks,Pacific,Western,https://a.espncdn.com/i/teamlogos/nhl/500/VAN.png,#00205B,#00843D,#041C2C,#99999A
+Vegas Golden Knights,VGK,goldenknights,Pacific,Western,https://a.espncdn.com/i/teamlogos/nhl/500/vgs.png,#B4975A,#333F42,#000000,#C8102E
+Washington Capitals,WPG,capitals,Metropolitan,Eastern,https://a.espncdn.com/i/teamlogos/nhl/500/WPG.png,#C8102E,#041E42,#FFFFFF,#236192
+Winnipeg Jets,WSH,jets,Central,Western,https://a.espncdn.com/i/teamlogos/nhl/500/WSH.png,#041E42,#AC162C,#004C97,#55565A
