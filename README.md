@@ -33,7 +33,7 @@ df |>
 ```
 ![plot depicting all 32 nhl teams with primary and secondary colors along with primary logos](https://github.com/danmorse314/nhl-stuff/blob/main/figures/color%20plot%20example.png)
 
-Alternate logos & color schemes are also included! The `team_logo_alternate` will match up best with the `team_color_alt1` & `team_color_alt2`.
+Alternate logos & color schemes are also included! The `team_logo_alternate` will match up best with the `team_color_alt1` & `team_color_alt2`. These are a somewhat random assortment of throwback logos & secondary logos, and in some cases throwback secondary logos.
 
 ```{r alternate color logo plot}
 # reshuffle the random y variable just for fun
