@@ -4,7 +4,7 @@ This is the (future) home of any helper functions I use when analyzing NHL data.
 
 The [data](https://github.com/danmorse314/nhl-stuff/tree/main/data) folder is for miscellaneous data files, the first of which is nhl_team_info.csv, which contains all 32 NHL team names, abbreviations, colors, and logos. It should make it easier to get proper colors and logos on any NHL-related plots.
 
-Here's an example of how it might work:
+Here's an example of how you can use it to colorize your charts with proper team colors:
 
 ```{r nhl team info example}
 library(tidyverse)
