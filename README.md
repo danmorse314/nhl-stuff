@@ -1,6 +1,6 @@
 ## NHL Helper functions & datasets
 
-This is the home of any helper functions I use when analyzing NHL data. This is NOT the home of an NHL play-by-play scraper. The best one of those I'm aware of is from [Evolving Hockey](https://github.com/mhbw/evolving-hockey/blob/master/ALLSCRAPE.R)
+This is the (future) home of any helper functions I use when analyzing NHL data. This is NOT the home of an NHL play-by-play scraper. The best one of those I'm aware of is from [Evolving Hockey](https://github.com/mhbw/evolving-hockey/blob/master/ALLSCRAPE.R).
 
 The [data](https://github.com/danmorse314/nhl-stuff/tree/main/data) folder is for miscellaneous data files, the first of which is nhl_team_info.csv, which contains all 32 NHL team names, abbreviations, colors, and logos. It should make it easier to get proper colors and logos on any NHL-related plots.
 
@@ -19,13 +19,16 @@ df <- tibble(
   bind_cols(team_info)
 
 df |>
-  ggplot((aes(team_abbr, value))) +
+  ggplot((aes(full_team_name, value))) +
   geom_col(fill = df$team_color1, color = df$team_color2, size = 1, width = .7) +
   ggimage::geom_image(
     aes(y = value + 1, image = team_logo_espn),
-    size = .07, asp = 1.5
+    size = .05, asp = 1.5
   ) +
   theme_bw() +
+  theme(
+    axis.text.x = element_text(angle = 45, hjust = 1)
+  ) +
   labs(x = NULL, y = NULL)
 ```
 ![plot depicting all 32 nhl teams with primary and secondary colors along with primary logos](https://github.com/danmorse314/nhl-stuff/blob/main/figures/color%20plot%20example.png)
