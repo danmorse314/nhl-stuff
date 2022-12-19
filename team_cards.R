@@ -1,5 +1,5 @@
 # team cards
-install.packages(c("tidyverse","patchwork","remotes"))
+install.packages(c("tidyverse","patchwork","remotes","padr","zoo","gridExtra","ggimage","scales"))
 remotes::install_github("danmorse314/hockeyR")
 library(tidyverse)
 library(patchwork)
