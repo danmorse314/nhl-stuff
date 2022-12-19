@@ -1,5 +1,6 @@
 # team cards
 install.packages(c("tidyverse","patchwork"))
+remotes::install_github("danmorse314/hockeyR")
 library(tidyverse)
 library(patchwork)
 
