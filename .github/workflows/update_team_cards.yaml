@@ -8,16 +8,16 @@ on:
 jobs:
   nhl-team-card-update:
   runs-on: macOS-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: r-lib/actions/setup-r@v2
-      - name: Update NHL team cards
-        env:
-          GITHUB_PAT: ${{ secrets.PAT_GITHUB }}
-        run: Rscript team_cards.R
-      - name: Commit and update repo
-        run: |
-           git config --global user.name "team-cards-github-actions[bot]"
-          git config --global user.email "team-cards-github-actions@users.noreply.github.com"
-          git commit -a -m "Updated NHL team cards"
-          git push origin
+  steps:
+    - uses: actions/checkout@v2
+    - uses: r-lib/actions/setup-r@v2
+    - name: Update NHL team cards
+      env:
+        GITHUB_PAT: ${{ secrets.PAT_GITHUB }}
+      run: Rscript team_cards.R
+    - name: Commit and update repo
+      run: |
+         git config --global user.name "team-cards-github-actions[bot]"
+        git config --global user.email "team-cards-github-actions@users.noreply.github.com"
+        git commit -a -m "Updated NHL team cards"
+        git push origin
