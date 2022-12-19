@@ -1,5 +1,5 @@
 # team cards
-
+install.packages(c("tidyverse","patchwork"))
 library(tidyverse)
 library(patchwork)
 
