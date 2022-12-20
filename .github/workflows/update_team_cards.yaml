@@ -1,9 +1,8 @@
 name: update_team_cards
 
 on:
-  push
-#  schedule:
-#  - cron: '0 13 * * *'
+  schedule:
+      - cron: '0 13 * * *'
 
 jobs:
   update_team_cards:
