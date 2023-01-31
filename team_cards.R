@@ -487,7 +487,7 @@ make_team_card <- function(tm){
     ggplot(aes(0,0)) +
     geom_text(
       aes(label = full_team_name),
-      size = 12
+      size = 12, fontface = "bold"
     ) +
     theme_void()
   
@@ -527,7 +527,7 @@ make_team_card <- function(tm){
       hjust = 0
     ) +
     scale_x_continuous(
-      limits = c(0,1.08),
+      limits = c(0,1.12),
       expand = c(0,0),
       breaks = seq(0,1,.25),
       labels = paste0(seq(0,100,25),"%")
@@ -559,7 +559,7 @@ make_team_card <- function(tm){
       hjust = 0
     ) +
     scale_x_continuous(
-      limits = c(0,1.08),
+      limits = c(0,1.12),
       expand = c(0,0),
       breaks = seq(0,1,.25),
       labels = paste0(seq(0,100,25),"%")
@@ -587,7 +587,7 @@ make_team_card <- function(tm){
     scale_fill_identity() +
     scale_color_identity() +
     scale_x_continuous(
-      limits = c(0,1.08),
+      limits = c(0,1.12),
       expand = c(0,0),
       breaks = seq(0,1,.25),
       labels = paste0(seq(0,100,25),"%")
@@ -618,7 +618,7 @@ make_team_card <- function(tm){
       hjust = 0
     ) +
     scale_x_continuous(
-      limits = c(0,1.08),
+      limits = c(0,1.12),
       expand = c(0,0),
       breaks = seq(0,1,.25),
       labels = paste0(seq(0,100,25),"%")
@@ -649,7 +649,7 @@ make_team_card <- function(tm){
       hjust = 0
     ) +
     scale_x_continuous(
-      limits = c(0,1.08),
+      limits = c(0,1.12),
       expand = c(0,0),
       breaks = seq(0,1,.25),
       labels = paste0(seq(0,100,25),"%")
